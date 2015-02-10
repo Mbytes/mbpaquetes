@@ -1,0 +1,7 @@
+#Paquetes Basicos instalacion
+ssh joe uptimed htop mc sudo sendxmpp iptraf screen monit exim4
+rsync ntpdate
+bmon
+less iptraf nload multitail
+#Paquetes particulares
+#Configuraciones
